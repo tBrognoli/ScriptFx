@@ -76,12 +76,12 @@ date = str(datetime.date.today())
 
 
 myMail = "numelopscra@gmail.com"
-mailTo = "francois-xavier.wawrzyniak@imie.fr"
+mailTo = "********@****.fr"
 objectMail = "[NUMELOPS_ITLABS] Compte rendu "
 text = "Bonjour FX, \nLes comptes rendus de la journée du "+date+" sont en pièce jointe. \nBonne soirée.\n\nCordialement,\nBROGNOLI Thomas"
 zipName = "NUMELOPS_CRA_"+ date + ".7z"
 pathZip = "D:\\IMIE\\Languages\\Python\\ScriptFx\\archives"
-mdp = "FxNumelopsCrew"
+mdp = "**********"
 
 RenommerFichierCRA()
 
